@@ -15,4 +15,4 @@
 ![](https://github-readme-stats.vercel.app/api?username=samaankamal&show_icons=true&locale=en)<br/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=SamaanKamal&label=Profile%20Views&color=0&icon=0&pretty=false)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=samaankamal&label=Profile%20Views&color=0&icon=0&pretty=false)](https://visitcount.itsvg.in)
