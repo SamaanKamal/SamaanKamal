@@ -15,4 +15,4 @@
 ![](https://github-readme-stats.vercel.app/api?username=samaankamal&show_icons=true&locale=en)<br/>
 
 ---
-[![](https://github-readme-streak-stats.herokuapp.com/?user=samaankamal&)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=samaankamal&)(https://visitcount.itsvg.in)
